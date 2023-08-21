@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidm4p&theme=dark" />
 </a>
 <br/>
-<a href="https://twitter.com/hasherezade">
+<a href="https://twitter.com/voidm4p">
   <img src="https://img.shields.io/twitter/follow/voidm4p?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
 
